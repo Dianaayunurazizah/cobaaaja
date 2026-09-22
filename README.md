@@ -29,54 +29,30 @@ Setiap anggota mengimplementasikan satu class bunga lengkap dengan atribut (`nam
 
 ---
 
-## 📂 Struktur Proyek
+## ⚙️ Cara Menjalankan Proyek
 
-```text
-src/
- └── (default package) / tugas2_bunga/
-      ├── Bunga.java        # Main class pemanggil seluruh objek
-      ├── Melati.java       # Dikerjakan oleh Diana
-      ├── Kamboja.java      # Dikerjakan oleh Hamid
-      ├── Mawar.java        # Dikerjakan oleh Eka
-      ├── Matahari.java     # Dikerjakan oleh Zanuba
-      ├── Sakura.java       # Dikerjakan oleh Jaya
-      └── Anggrek.java      # Dikerjakan oleh Faiz
+1. Buka Repository dan Klik **Code <>** → pilih **HTTPS** dan salin link-nya: `https://github.com/Dianaayunurazizah/TK2_Kelompok2_Bunga.git`
+2. Buka aplikasi **Apache NetBeans**.
+3. Pilih menu **Team → Git → Clone...** dan masukkan link yang sudah disalin tadi, ikuti perintah yang direkomendasikan sampai muncul pop-up untuk **"Open Project"**.
+4. Pastikan berkas `Bunga.java` berstatus sebagai **Main Class**.
+5. Jalankan proyek dengan menekan tombol **Run Project** (`F6`).
 
 ---
 
-## ⚙️ **Cara Menjalankan Proyek**
-Clone repositori ini ke laptop lokal:
+## 🤝 Aturan Kolaborasi Anggota
 
-1. Buka Repository dan Klik code<> → pilih HTTPS dan saalin linknya [https://github.com/Dianaayunurazizah/TK2_Kelompok2_Bunga.git]
-2. Buka aplikasi Apache NetBeans.
-3. Pilih Team → Git → Clone dan masukkan link yang sudah disalin tadi, ikuti perintah yang direkomendasikan sampai muncul pop up untuk "open project".
-4. Pastikan berkas Bunga.java berstatus sebagai Main Class.
-5. Jalankan proyek dengan menekan tombol Run Project (F6).
-
----
-
-## 🤝 **Aturan Kolaborasi Anggota**
-1. Wajib Akun Sendiri: Setiap anggota wajib melakukan commit dan push menggunakan akun GitHub masing-masing karena penilaian dosen berbasis riwayat kontribusi (commit history).
-
-2. Pengiriman Hasil ke Master / Branch Utama: Saat mengirimkan hasil pengerjaan class masing-masing, setiap anggota wajib melakukan Commit & Push di NetBeans dengan memverifikasi serta mencentang nama berkas/nama mereka sendiri sebelum proses push dijalankan.
-
-3. Satu Anggota, Satu Class: Setiap anggota mengerjakan berkas class bunga yang menjadi bagian tugasnya secara mandiri.
-
-4. Pull Sebelum Mulai mengerjakan code: Selalu lakukan git pull sebelum mulai menulis kode di NetBeans agar salinan proyek di laptop lokal selalu sinkron.
-
-5. Proses saat anggota sudah menyelesaikan project mereka adalah melakukan commit dan push, pastikan saat push yang dicentang nama anda sendiri.
-
-5. Penggabungan Kode (Merge Kerja Anggota):
-
-   -Lakukan Fetch from Upstream di NetBeans.
-
-   -Pilih menu Merge Revision pada bagian Remote.
-
-   -Pilih origin dan pilih nama anggota yang baru saja melakukan push/commit.
-
-   -Lakukan penggabungan (merge) agar perubahan class dari anggota tersebut masuk ke proyek utama.
+1. **Wajib Akun Sendiri**: Setiap anggota wajib melakukan commit dan push menggunakan akun GitHub masing-masing karena penilaian dosen berbasis riwayat kontribusi (*commit history*).
+2. **Pengiriman Hasil ke Master / Branch Utama**: Saat anggota sudah menyelesaikan project mereka, lakukan **Commit & Push** di NetBeans. Pastikan sebelum push dijalankan, berkas yang dicentang adalah **nama berkas/nama Anda sendiri**.
+3. **Satu Anggota, Satu Class**: Setiap anggota mengerjakan berkas class bunga yang menjadi bagian tugasnya secara mandiri.
+4. **Pull Sebelum Mulai Mengerjakan Code**: Selalu lakukan `git pull` sebelum mulai menulis kode di NetBeans agar salinan proyek di laptop lokal selalu sinkron.
+5. **Penggabungan Kode (Merge Kerja Anggota)**:
+   * Lakukan **Fetch from Upstream** di NetBeans.
+   * Pilih menu **Merge Revision** pada bagian **Remote**.
+   * Pilih **origin** dan pilih nama anggota yang baru saja melakukan push/commit.
+   * Lakukan penggabungan (*merge*) agar perubahan class dari anggota tersebut masuk ke proyek utama.
 
 ---
 
-## 📞 **Hubungi Tim**
-Ketua Kelompok (Diana): GitHub @Dianaayunurazizah
+## 📞 Hubungi Tim
+
+Ketua Kelompok (Diana): GitHub [@Dianaayunurazizah](https://github.com/Dianaayunurazizah)
