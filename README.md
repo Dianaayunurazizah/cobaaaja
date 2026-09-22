@@ -1,7 +1,9 @@
-# Tugas 2 - Pemrograman Berorientasi Objek (PBO)
+# Tugas Kelompok 2 - Membuat Class dengan Construktor, Setter, Getter dan Memanggil Class Tersebut didalam Main
 
 **Topik / Tema Proyek** : Bunga  
-**Kelompok** : 2  
+**Kelompok** : 2 
+**Prodi** : Sistem Informasi
+**Mata Kuliah** : Pemrograman Beroriemtasi Objek
 **Ketua / Koordinator** : Diana Ayu Nur Azizah
 
 ---
