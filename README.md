@@ -2,7 +2,7 @@
 
 **Topik / Tema Proyek** : Bunga  
 **Kelompok** : 2  
-**Ketua / Koordinator** : Diana Ayu Nurazizah
+**Ketua / Koordinator** : Diana Ayu Nur Azizah
 
 ---
 
@@ -44,7 +44,7 @@ src/
 
 ---
 
-## ⚙️ Cara Menjalankan Proyek
+## ⚙️ **Cara Menjalankan Proyek**
 Clone repositori ini ke laptop lokal:
 
 1. Buka Repository dan Klik code<> → pilih HTTPS dan saalin linknya [https://github.com/Dianaayunurazizah/TK2_Kelompok2_Bunga.git]
@@ -55,7 +55,7 @@ Clone repositori ini ke laptop lokal:
 
 ---
 
-## 🤝 Aturan Kolaborasi Anggota
+## 🤝 **Aturan Kolaborasi Anggota**
 1. Wajib Akun Sendiri: Setiap anggota wajib melakukan commit dan push menggunakan akun GitHub masing-masing karena penilaian dosen berbasis riwayat kontribusi (commit history).
 
 2. Pengiriman Hasil ke Master / Branch Utama: Saat mengirimkan hasil pengerjaan class masing-masing, setiap anggota wajib melakukan Commit & Push di NetBeans dengan memverifikasi serta mencentang nama berkas/nama mereka sendiri sebelum proses push dijalankan.
@@ -78,5 +78,5 @@ Clone repositori ini ke laptop lokal:
 
 ---
 
-## 📞 Hubungi Tim
+## 📞 **Hubungi Tim**
 Ketua Kelompok (Diana): GitHub @Dianaayunurazizah
