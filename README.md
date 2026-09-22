@@ -14,12 +14,6 @@ Pengerjaan proyek menerapkan prinsip kolaborasi Git dan GitHub, di mana masing-m
 
 ---
 
-## 📜 License
-
-Project ini menggunakan lisensi MIT.
-
----
-
 ## 👥 Anggota Kelompok & Pembagian Tugas
 
 Setiap anggota mengimplementasikan satu class bunga lengkap dengan atribut (`nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal`), Constructor berparameter, method Setter, serta Getter:
@@ -48,37 +42,41 @@ src/
       ├── Sakura.java       # Dikerjakan oleh Jaya
       └── Anggrek.java      # Dikerjakan oleh Faiz
 
-⚙️ Cara Menjalankan Proyek
+---
+
+## ⚙️ Cara Menjalankan Proyek
 Clone repositori ini ke laptop lokal:
 
-Bash
-git clone [https://github.com/Dianaayunurazizah/TK2_Kelompok2_Bunga.git](https://github.com/Dianaayunurazizah/TK2_Kelompok2_Bunga.git)
-Buka aplikasi Apache NetBeans.
+1. Buka Repository dan Klik code<> → pilih HTTPS dan saalin linknya [https://github.com/Dianaayunurazizah/TK2_Kelompok2_Bunga.git]
+2. Buka aplikasi Apache NetBeans.
+3. Pilih Team → Git → Clone dan masukkan link yang sudah disalin tadi, ikuti perintah yang direkomendasikan sampai muncul pop up untuk "open project".
+4. Pastikan berkas Bunga.java berstatus sebagai Main Class.
+5. Jalankan proyek dengan menekan tombol Run Project (F6).
 
-Buka menu File → Open Project..., lalu arahkan ke folder repositori yang telah di-clone.
+---
 
-Pastikan berkas Bunga.java berstatus sebagai Main Class.
+## 🤝 Aturan Kolaborasi Anggota
+1. Wajib Akun Sendiri: Setiap anggota wajib melakukan commit dan push menggunakan akun GitHub masing-masing karena penilaian dosen berbasis riwayat kontribusi (commit history).
 
-Jalankan proyek dengan menekan tombol Run Project (F6).
+2. Pengiriman Hasil ke Master / Branch Utama: Saat mengirimkan hasil pengerjaan class masing-masing, setiap anggota wajib melakukan Commit & Push di NetBeans dengan memverifikasi serta mencentang nama berkas/nama mereka sendiri sebelum proses push dijalankan.
 
-🤝 Aturan Kolaborasi Anggota
-Wajib Akun Sendiri: Setiap anggota wajib melakukan commit dan push menggunakan akun GitHub masing-masing karena penilaian dosen berbasis riwayat kontribusi (commit history).
+3. Satu Anggota, Satu Class: Setiap anggota mengerjakan berkas class bunga yang menjadi bagian tugasnya secara mandiri.
 
-Pengiriman Hasil ke Master / Branch Utama: Saat mengirimkan hasil pengerjaan class masing-masing, setiap anggota wajib melakukan Commit & Push di NetBeans dengan memverifikasi serta mencentang nama berkas/nama mereka sendiri sebelum proses push dijalankan.
+4. Pull Sebelum Mulai mengerjakan code: Selalu lakukan git pull sebelum mulai menulis kode di NetBeans agar salinan proyek di laptop lokal selalu sinkron.
 
-Satu Anggota, Satu Class: Setiap anggota mengerjakan berkas class bunga yang menjadi bagian tugasnya secara mandiri.
+5. Proses saat anggota sudah menyelesaikan project mereka adalah melakukan commit dan push, pastikan saat push yang dicentang nama anda sendiri.
 
-Pull Sebelum Mulai Koding: Selalu lakukan git pull sebelum mulai menulis kode di NetBeans agar salinan proyek di laptop lokal selalu sinkron.
+5. Penggabungan Kode (Merge Kerja Anggota):
 
-Penggabungan Kode (Merge Kerja Anggota):
+   -Lakukan Fetch from Upstream di NetBeans.
 
-Lakukan Fetch from Upstream di NetBeans.
+   -Pilih menu Merge Revision pada bagian Remote.
 
-Pilih menu Merge Revision pada bagian Remote.
+   -Pilih origin dan pilih nama anggota yang baru saja melakukan push/commit.
 
-Pilih origin dan pilih nama anggota yang baru saja melakukan push/commit.
+   -Lakukan penggabungan (merge) agar perubahan class dari anggota tersebut masuk ke proyek utama.
 
-Lakukan penggabungan (merge) agar perubahan class dari anggota tersebut masuk ke proyek utama.
+---
 
-📞 Hubungi Tim
+## 📞 Hubungi Tim
 Ketua Kelompok (Diana): GitHub @Dianaayunurazizah
