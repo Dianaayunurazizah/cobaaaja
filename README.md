@@ -20,12 +20,12 @@ Setiap anggota mengimplementasikan satu class bunga lengkap dengan atribut (`nam
 
 | No | Nama Anggota | Class yang Dikerjakan | Atribut Utama |
 |---|---|---|---|
-| 1 | Diana Ayu Nurazizah | `Melati.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
-| 2 | Hamid | `Kamboja.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
-| 3 | Eka | `Mawar.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
-| 4 | Zanuba | `Matahari.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
-| 5 | Jaya | `Sakura.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
-| 6 | Faiz | `Anggrek.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
+| 1 | Diana Ayu Nur Azizah | `Melati.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
+| 2 | M. Abdul Hamid | `Kamboja.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
+| 3 | Eka Futkiyana Sari | `Mawar.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
+| 4 | Zanuba Arifah C. | `Matahari.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
+| 5 | Jaya Ageng Sapuro | `Sakura.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
+| 6 | Faiz Tsani Romadhon | `Anggrek.java` | `nama`, `warna`, `pertulanganDaun`, `jenisBatang`, `aroma`, `asal` |
 
 ---
 
